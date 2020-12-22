@@ -1,4 +1,4 @@
-name: fish_app
+name: FishHub
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -22,10 +22,12 @@ environment:
 
 dependencies:
   google_fonts: ^1.1.1
+  number_inc_dec: ^0.6.6
 
   flutter:
     sdk: flutter
   pubnub: ^3.0.2
+  shared_preferences: ^0.5.12+4
 
 
 
