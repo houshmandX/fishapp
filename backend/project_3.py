@@ -1,7 +1,6 @@
 #Hayden Pour
-#Project3.  Backend python file
-# gdocs: https://docs.google.com/document/d/1dCnL4XY8YFDFsfzBc0CUPte3JGJz8Bujy6fzbb6FwW4/edit?usp=sharing
-# Demo video:https://youtu.be/YkHfbnXKjwc
+#Project.  Backend python file
+#Demo video:https://youtu.be/O5fRJas_lWQ
 
 import RPi.GPIO as GPIO
 import os
