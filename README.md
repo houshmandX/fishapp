@@ -7,3 +7,4 @@ As open project, I came up with idea to design and create a product to easily ma
 
 
 ## Parts:
+[Servo Motor](#https://vetco.net/products/9g-micro-servo-for-arduino?gclid=CjwKCAiAz4b_BRBbEiwA5XlVViU7bMm0xdESmY_5JzXZ1Grp4Ajy23phb-Ft9zRSrW2zhXgaCoF3ChoC9Z8QAvD_BwE)
