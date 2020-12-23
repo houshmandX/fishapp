@@ -2,7 +2,7 @@
 
 ## Summary:
 
-with FishHub you can control any fish tank to feed, turn on/off the light, and get current temperature. 
+With FishHub you can control any fish tank to feed, turn on/off the light, and get current temperature. 
 As open project, I came up with idea to design and create a product to easily manage and control a fish tank.
 
 
@@ -16,4 +16,7 @@ As open project, I came up with idea to design and create a product to easily ma
 Back end done in python to control all hardware and send message(pubnub server) to the cloud wich frontend(app) recive to execute the order. 
 
 ## FrontEnd
-Front end done in flutter dart language to control and send message to backend using [pubnub](https://www.pubnub.com/) realtime communication. 
+Front end done in flutter dart language to control and send message to backend using [pubnub](https://www.pubnub.com/) realtime communication.
+
+
+#### More feature will be added 
